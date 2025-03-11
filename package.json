@@ -1,0 +1,17 @@
+{
+  "name": "playing-with-shapes",
+  "version": "1.0.0",
+  "description": "> A JS exercise use at HEPL for MMI.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.71.1",
+    "vite": "^5.1.4"
+  }
+}
